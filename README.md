@@ -28,6 +28,8 @@ jaka kultura pracy panuje podzcas pracy nad projektem?
 + [culture.softreck.dev](https://culture.softreck.dev/)
 
 
+## Inne projekty do których możesz dołączyć i współtworzyć
++ [projects.wapka.pl](https://projects.wapka.pl/)
 
 ---
 + [edit](https://github.com/web-stream/team/edit/main/README.md)
