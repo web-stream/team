@@ -24,7 +24,7 @@ Kolejnośc od ostatnio dołączonych do projektu
 
 
 ## Jakimi wartościami się kierujemy?
-jaka kultura pracy panuje podzcas pracy nad projektem?
+jaka kultura pracy panuje podczas pracy nad projektem?
 + [culture.softreck.dev](https://culture.softreck.dev/)
 
 
