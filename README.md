@@ -5,7 +5,7 @@
 
 Kolejnośc od ostatnio dołączonych do projektu
 
-+ Bartek, @Dev @JS @tests
++ Carlos, @Dev @JS @tests
 + Michal, @Dev @JS @Docs
 + Tom, @DevOps @Dev, @Admin, @Provider
 
